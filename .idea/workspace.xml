@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74455579-301f-47df-a94d-7bb809b8f851" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Nhtwm2sdPSXH8cqsYV7AQStz3W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.C03_PozitifLoginTest">
+    <configuration name="C01_HardAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C01_HardAssertion" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_SoftAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C02_SoftAssertion" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C03_PozitifLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_PozitifLoginTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C03_PozitifLoginTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_NegatifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C04_NegatifLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C03_PozitifLoginTest" />
+        <item itemvalue="TestNG.C03_PozitifLoginTest.test01" />
+        <item itemvalue="TestNG.C04_NegatifLoginTest" />
+        <item itemvalue="TestNG.C02_SoftAssertion" />
+        <item itemvalue="TestNG.C01_HardAssertion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74455579-301f-47df-a94d-7bb809b8f851" name="Changes" comment="" />
+      <created>1680128384934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680128384934</updated>
+    </task>
+    <servers />
+  </component>
+</project>
