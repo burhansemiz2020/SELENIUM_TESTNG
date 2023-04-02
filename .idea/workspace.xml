@@ -38,41 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C03_PozitifLoginTest">
-    <configuration name="C01_HardAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Team114_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C01_HardAssertion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_SoftAssertion" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Team114_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C02_SoftAssertion" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/semiz/OneDrive/Bureau/com.Team114_TestNG/siraliCalistirmaClass.xml">
     <configuration name="C03_PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
       <extension name="coverage">
@@ -125,13 +91,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C04_NegatifLoginTest.negatifLoginTest2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C04_NegatifLoginTest" />
+      <option name="METHOD_NAME" value="negatifLoginTest2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/semiz/OneDrive/Bureau/com.Team114_TestNG/siraliCalistirmaClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/siraliCalistirmaClass.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C03_PozitifLoginTest" />
+        <item itemvalue="TestNG.C:/Users/semiz/OneDrive/Bureau/com.Team114_TestNG/siraliCalistirmaClass.xml" />
         <item itemvalue="TestNG.C03_PozitifLoginTest.test01" />
+        <item itemvalue="TestNG.C03_PozitifLoginTest" />
+        <item itemvalue="TestNG.C04_NegatifLoginTest.negatifLoginTest2" />
         <item itemvalue="TestNG.C04_NegatifLoginTest" />
-        <item itemvalue="TestNG.C02_SoftAssertion" />
-        <item itemvalue="TestNG.C01_HardAssertion" />
       </list>
     </recent_temporary>
   </component>

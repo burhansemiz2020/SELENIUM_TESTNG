@@ -23,9 +23,10 @@ public class C03_PozitifLoginTest {
         // cookies'i kabul edin
         QualitydemyPage qualitydemyPage = new QualitydemyPage();
         qualitydemyPage.cookiesKabulButonu.click();
-        Thread.sleep(3000);
+        Thread.sleep(2000);
         // Login linkine tiklayin
         qualitydemyPage.firstLoginLink.click();
+        Thread.sleep(2000);
         // gecerli kullanici adi ve gecerli password yazip
 
         qualitydemyPage.loginEmailBox.sendKeys(ConfigReader.getProperty("qdGecerliUserName"));

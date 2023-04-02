@@ -37,12 +37,34 @@ public class C04_NegatifLoginTest {
         // ve sayfayi kapatin
         Driver.closeDriver();
     }
+    @Test
+    public void negatifLoginTest2() {
+        // Bir test methodu olusturun
+        // qualitydemy anasayfasina gidin
+        Driver.getDriver().get(ConfigReader.getProperty("qdUrl"));
+        // cookies'i kabul edin
+        QualitydemyPage qualitydemyPage = new QualitydemyPage();
+        qualitydemyPage.cookiesKabulButonu.click();
 
 
+        // Login linkine tiklayin
+        qualitydemyPage.firstLoginLink.click();
+
+        // gecersiz kullanici adi ve gecersiz password yazip
+        qualitydemyPage.loginEmailBox.sendKeys(ConfigReader.getProperty("qdGecersizUserName"));
+        qualitydemyPage.loginPasswordBox.sendKeys(ConfigReader.getProperty("qdGecersizPassword"));
+
+        // login butonuna bastiginizda
+        qualitydemyPage.loginButton.click();
+
+        // basarili olarak giris yapilamadigini test edin
+        Assert.assertTrue(qualitydemyPage.loginEmailBox.isEnabled());
+
+        // ve sayfayi kapatin
+        Driver.closeDriver();
 
 
-
-
+    }
 
 
 }

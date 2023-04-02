@@ -1,4 +1,4 @@
-package tests.ders11_TestNGFramework;
+package tests.ders11_testNGFramework;
 
 import org.testng.annotations.Test;
 /*
@@ -11,19 +11,22 @@ passed olmadan bagli olan method calismaz
 
 public class C02_DependsOnMethod {
     @Test(priority = 5)
-    public void amazonTest(){
+    public void amazonTest() {
         System.out.println("amazon");
     }
-    @Test(priority = -7,dependsOnMethods = "amazonTest")
-    public void youtubeTest(){
+
+    @Test(priority = -7, dependsOnMethods = "amazonTest")
+    public void youtubeTest() {
         System.out.println("youtube");
     }
+
     @Test
-    public void wiseQuarterTest(){
+    public void wiseQuarterTest() {
         System.out.println("wise quarter");
     }
+
     @Test(dependsOnMethods = "youtubeTest")
-    public void bestBuyTest(){
+    public void bestBuyTest() {
         System.out.println("bestBuy");
     }
 }

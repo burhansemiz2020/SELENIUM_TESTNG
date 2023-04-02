@@ -1,4 +1,4 @@
-package tests.ders11_TestNGFramework;
+package tests.ders11_testNGFramework;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
