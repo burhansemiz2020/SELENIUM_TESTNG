@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74455579-301f-47df-a94d-7bb809b8f851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders11_TestNGFramework/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders11_TestNGFramework/C01_Priority.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,81 +63,54 @@
   </component>
   <component name="ProjectId" id="2Nhtwm2sdPSXH8cqsYV7AQStz3W" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/semiz/IdeaProjects/TEAM113_WINTER2023"
+    "last_opened_file_path": "C:/Users/semiz/IdeaProjects/GITHUB_01",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/semiz/OneDrive/Bureau/com.Team114_TestNG/siraliCalistirmaClass.xml">
-    <configuration name="C03_PozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml (1)">
+    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C03_PozitifLoginTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/siraliCalistirmaMethod.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_PozitifLoginTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaPackage.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C03_PozitifLoginTest" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_NegatifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Team114_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C04_NegatifLoginTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C04_NegatifLoginTest.negatifLoginTest2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Team114_TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C04_NegatifLoginTest" />
-      <option name="METHOD_NAME" value="negatifLoginTest2" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/siraliCalistirmaPackage.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -153,13 +127,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/semiz/OneDrive/Bureau/com.Team114_TestNG/siraliCalistirmaClass.xml" />
-        <item itemvalue="TestNG.C03_PozitifLoginTest.test01" />
-        <item itemvalue="TestNG.C03_PozitifLoginTest" />
-        <item itemvalue="TestNG.C04_NegatifLoginTest.negatifLoginTest2" />
-        <item itemvalue="TestNG.C04_NegatifLoginTest" />
+        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml (1)" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaPackage.xml" />
       </list>
     </recent_temporary>
   </component>
