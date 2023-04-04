@@ -21,7 +21,7 @@ public class C01_Priority {
     public void amazonTest(){
         System.out.println("amazon");
     }
-    @Test(priority = -7)
+    @Test(priority = -7, groups="smoke")
     public void youtubeTest(){
         System.out.println("youtube");
     }

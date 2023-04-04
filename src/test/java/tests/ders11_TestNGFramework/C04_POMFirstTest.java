@@ -13,7 +13,7 @@ public class C04_POMFirstTest {
     2. Locate leri page sayfalarinda yapip, onlara obje
     olusturarak ulasabiliriz.
      */
-    @Test
+    @Test(groups="smoke")
     public void test01() throws InterruptedException {
         //qualitydemy sayfasina gidip
         Driver.getDriver().get("https://www.qualitydemy.com");
