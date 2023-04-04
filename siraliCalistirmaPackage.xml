@@ -2,7 +2,7 @@
 <suite name="Package calistirma">
     <test name="Package calistirma">
         <packages>
-            <package name="tests.ders12_assertions_POMGelistirmeler">
+            <package name="tests.ders13">
 
             </package>
         </packages>

@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="74455579-301f-47df-a94d-7bb809b8f851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siraliCalistirmaPackage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/siraliCalistirmaPackage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders13/C01_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders13/C01_RaporluClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ders13/C01_.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +64,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2Nhtwm2sdPSXH8cqsYV7AQStz3W" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -73,7 +78,30 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/silariTumTestleriCalistirma.xml">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests.ders13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaPackage.xml">
+    <configuration name="C01_RaporluClass.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com.Team114_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.ders13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.ders13" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders13.C01_RaporluClass" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/silariTumTestleriCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/silariTumTestleriCalistirma.xml" />
@@ -104,23 +132,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaPackage.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/siraliCalistirmaPackage.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -139,27 +154,6 @@
       <option name="TEST_OBJECT" value="PACKAGE" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
       <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
@@ -169,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaPackage.xml" />
+        <item itemvalue="TestNG.C01_RaporluClass.test01" />
         <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/silariTumTestleriCalistirma.xml" />
         <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaGroups.xml" />
         <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml (1)" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
-        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/siraliCalistirmaMethod.xml" />
       </list>
     </recent_temporary>
   </component>
