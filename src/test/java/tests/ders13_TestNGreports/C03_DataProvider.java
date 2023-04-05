@@ -1,4 +1,4 @@
-package tests.ders13;
+package tests.ders13_TestNGreports;
 
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;

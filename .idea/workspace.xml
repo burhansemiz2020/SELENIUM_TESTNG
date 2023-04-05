@@ -6,6 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="74455579-301f-47df-a94d-7bb809b8f851" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paralelCalistirma.xml" beforeDir="false" afterPath="$PROJECT_DIR$/paralelCalistirma.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/siraliCalistirmaPackage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/siraliCalistirmaPackage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders13/C01_RaporluClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C01_RaporluClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders13/C02_RaporluPozitifLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C02_RaporluPozitifLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders13/C03_DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C03_DataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders13/C04_DataProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders13_TestNGreports/C04_DataProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ders14/C01_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ders14_crossBrowser/C01_CrossBrowserAmazon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ders13/C01_RaporluClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ders13/C02_RaporluPozitifLoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ders13/C03_DataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ders13/C04_DataProvider.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ders14/C01_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Rapor20230405011449.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Rapor20230405011449.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Rapor20230405011803.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Rapor20230405011803.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/Rapor20230405012442.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/Rapor20230405012442.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +87,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/semiz/IdeaProjects/GITHUB_01&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -80,17 +95,17 @@
       <recent name="tests.ders13" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C04_DataProvider">
-    <configuration name="C03_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/crossBrowserSirali.xml">
+    <configuration name="C01_CrossBrowserAmazon" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.ders13.*" />
+          <option name="PATTERN" value="tests.ders14_crossBrowser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.ders13" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders13.C03_DataProvider" />
+      <option name="PACKAGE_NAME" value="tests.ders14_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders14_crossBrowser.C01_CrossBrowserAmazon" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -98,17 +113,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_DataProvider.negatifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C01_CrossBrowserAmazon.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.ders13.*" />
+          <option name="PATTERN" value="tests.ders14_crossBrowser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.ders13" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders13.C03_DataProvider" />
-      <option name="METHOD_NAME" value="negatifLoginTest" />
+      <option name="PACKAGE_NAME" value="tests.ders14_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders14_crossBrowser.C01_CrossBrowserAmazon" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -116,16 +131,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_CrossBrowserPozitifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.ders13.*" />
+          <option name="PATTERN" value="tests.ders14_crossBrowser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.ders13" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders13.C04_DataProvider" />
+      <option name="PACKAGE_NAME" value="tests.ders14_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders14_crossBrowser.C02_CrossBrowserPozitifLoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -133,17 +148,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_NegatifLoginTest.negatifLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_CrossBrowserPozitifLoginTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.ders12_assertions_POMGelistirmeler.*" />
+          <option name="PATTERN" value="tests.ders14_crossBrowser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests.ders12_assertions_POMGelistirmeler" />
-      <option name="MAIN_CLASS_NAME" value="tests.ders12_assertions_POMGelistirmeler.C04_NegatifLoginTest" />
-      <option name="METHOD_NAME" value="negatifLoginTest" />
+      <option name="PACKAGE_NAME" value="tests.ders14_crossBrowser" />
+      <option name="MAIN_CLASS_NAME" value="tests.ders14_crossBrowser.C02_CrossBrowserPozitifLoginTest" />
+      <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,29 +166,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/paralelCalistirma.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C:/Users/semiz/IdeaProjects/com.Team114_TestNG/crossBrowserSirali.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.Team114_TestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/paralelCalistirma.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/crossBrowserSirali.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="com.Team114_TestNG" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -182,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C04_DataProvider" />
-        <item itemvalue="TestNG.C03_DataProvider" />
-        <item itemvalue="TestNG.C04_NegatifLoginTest.negatifLoginTest" />
-        <item itemvalue="TestNG.C03_DataProvider.negatifLoginTest" />
-        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/paralelCalistirma.xml" />
+        <item itemvalue="TestNG.C:/Users/semiz/IdeaProjects/com.Team114_TestNG/crossBrowserSirali.xml" />
+        <item itemvalue="TestNG.C02_CrossBrowserPozitifLoginTest.test01" />
+        <item itemvalue="TestNG.C01_CrossBrowserAmazon" />
+        <item itemvalue="TestNG.C02_CrossBrowserPozitifLoginTest" />
+        <item itemvalue="TestNG.C01_CrossBrowserAmazon.test01" />
       </list>
     </recent_temporary>
   </component>
